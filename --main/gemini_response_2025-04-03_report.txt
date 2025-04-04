@@ -1,0 +1,20 @@
+Track ID: 1 | Condition: | Label Present | Damage |
+|--------------|--------|
+| Yes       | No     | | Date: 2025-04-03 15:05:49
+
+Track ID: 2 | Condition: | Label Present | Damage |
+|--------------|--------|
+| Yes       | No | | Date: 2025-04-03 15:06:05
+
+Track ID: 3 | Condition: Here's the table summarizing the analysis of the image:
+
+| Label Present | Damage |
+|--------------|--------|
+| Yes          | No      | | Date: 2025-04-03 15:06:22
+
+Track ID: 4 | Condition: Here's the table summarizing the analysis of the image:
+
+| Label Present | Damage |
+|--------------|--------|
+| No           | No      | | Date: 2025-04-03 15:06:38
+
